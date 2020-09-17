@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "task 1",
+      "value": false
+    },
+    {
+      "title": "hii",
+      "value": true,
+      "id": 3
+    },
+    {
+      "title": "hello world",
+      "value": true,
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Siya",
+      "email": "siya@gmail.com",
+      "password": "siya123"
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "rahul1234"
+    },
+    {
+      "id": 3,
+      "name": "Suman",
+      "email": "suman@gmail.com",
+      "password": "suman@123"
+    }
+  ]
+}
